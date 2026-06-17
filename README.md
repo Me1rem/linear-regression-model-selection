@@ -5,13 +5,13 @@
 [![Pandas](https://img.shields.io/badge/pandas-1.3+-150458.svg?logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-1.21+-013243.svg?logo=numpy)](https://numpy.org/)
 
-## 📚 Project Overview
+##  Project Overview
 
 This project presents a comprehensive and systematic approach to model selection for multiple linear regression. The primary objective is to demonstrate and compare two fundamental feature selection techniques—**Backward Elimination using Akaike Information Criterion (AIC)** and **Forward Selection using Bayesian Information Criterion (BIC)** —to identify the optimal subset of predictors that best explains the target variable.
 
 The project provides a clear, step-by-step implementation, from data exploration and model fitting to rigorous model diagnostics. It serves as a robust template for any predictive modeling task, emphasizing the importance of information criteria and parsimonious model building. The analysis concludes with a strong convergence of both selection methods, providing high confidence in the final model.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - **Implement OLS Regression:** Build a linear regression model from scratch using the normal equations.
 - **Perform Feature Selection:** Systematically apply and compare Backward (AIC) and Forward (BIC) selection algorithms.
@@ -91,5 +91,5 @@ To reproduce this analysis, follow these steps:
 
 1.  **Clone the Repository (or download the files):**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/Me1rem>
     cd <your-project-directory>
